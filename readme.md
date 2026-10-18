@@ -64,6 +64,7 @@ Manage and analyze social media presence across multiple platforms.
 - [Agorapulse](https://www.agorapulse.com/) - Social media management and reporting.
 - [SocialBu](https://socialbu.com/) - AI-powered social media management, scheduling, automation, and analytics across all major platforms.
 - [OpenPost](https://openpost.social/) - Self-hosted social media scheduling for humans and AI agents.
+- [Social SDK](https://github.com/opencoredev/social-sdk) - Open-source TypeScript client for publishing and reading across social platforms, with direct integrations and optional managed backends.
 
 ## Analytics
 
